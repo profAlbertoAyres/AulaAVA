@@ -12,7 +12,9 @@
     </header>
     <main>
         <form action="" method="post">
-            
+            <label for="txNome"></label>
+            <input type="text" name="txNome" id="txNome">
+
         </form>
     </main>
     <footer>
